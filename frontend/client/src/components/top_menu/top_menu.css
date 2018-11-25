@@ -1,0 +1,10 @@
+.fixed-top{
+    background: -webkit-radial-gradient(circle at top, rgb(28, 44, 68) 10px, rgb(15, 35, 56) 50px, rgb(15, 35, 55)) no-repeat;
+    background: -moz-radial-gradient(circle at top, rgb(28, 44, 68) 10px, rgb(15, 35, 56) 50px, rgb(15, 35, 55)) no-repeat;
+    background: -ms-radial-gradient(circle at top, rgb(28, 44, 68) 10px, rgb(15, 35, 56) 50px, rgb(15, 35, 55)) no-repeat;
+    background: radial-gradient(circle at top, rgb(28, 44, 68) 10px, rgb(15, 35, 56) 50px, rgb(15, 35, 55)) no-repeat;
+}
+
+.navbar-collapse {
+    background-color: rgb(11, 26, 42);
+}

@@ -1,0 +1,28 @@
+.bot {
+    background-color: rgb(28, 41, 62);
+    width: 30vw;
+    height: 30vw;
+    margin: 0.8% 0 0 0;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.bot:hover,
+.bot:focus {
+    text-decoration: none;
+    background-image: -webkit-radial-gradient(circle at center, rgb(27, 42, 64) 10px, rgb(28, 43, 67) 25px, rgb(26, 52, 80));
+    background-image: -moz-radial-gradient(circle at center, rgb(27, 42, 64) 10px, rgb(28, 43, 67) 25px, rgb(26, 52, 80));
+    background-image: -ms-radial-gradient(circle at center, rgb(27, 42, 64) 10px, rgb(28, 43, 67) 25px, rgb(26, 52, 80));
+    background-image: radial-gradient(circle at center, rgb(27, 42, 64) 10px, rgb(28, 43, 67) 25px, rgb(26, 52, 80));
+    background-repeat: no-repeat;
+}
+
+.bot-img {
+    width: 10vw;
+    height: 10vw;
+    background: url('http://place-hold.it/300x500?text=Bot') center no-repeat;
+}
+
+.bot-title {
+    color: #c4c4c4;
+}

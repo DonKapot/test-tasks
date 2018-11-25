@@ -1,0 +1,11 @@
+.period {
+    font-size: 3vmin;
+}
+
+.period button {
+    border-radius: 25px;
+    font-size: 3vmin;
+    padding: 0;
+    width: 17vw;
+    border-color: #43546c!important;
+}
