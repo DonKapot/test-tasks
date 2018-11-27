@@ -1,26 +1,23 @@
-.graph-titles {
-    line-height: 1;
-}
-
-.side {
-    line-height: 1.3;
-}
-
-.text-m {
-    font-size: 4vw;
+.title-side {
+    line-height: 1em;
 }
 
 .text-l {
-    font-size: 10vw;
+    font-size: 2.2em;
+    line-height: 1em;
 }
 
-.nums {
+.side {
+    line-height: 1.2em;
+}
+
+.num {
     color: #c4c4c4;
 }
 
 .graph-ico {
-    background: url('../../img/graph.png') no-repeat;
+    background: url('../../images/graph.jpg') no-repeat;
     background-position: 50% 50%;
-    background-size: 100vw 28vh;
-    height: 28vh;
+    background-size: 100vw 25vh;
+    height: 26vh;
 }

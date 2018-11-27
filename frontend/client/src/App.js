@@ -66,7 +66,7 @@ class App extends Component {
     return (
       <div className="app">
         <TopMenu/>
-        <div className="container-fluid pt-0 pl-3 pb-0 pr-3 m-0">
+        <div className="container-fluid m-0 p-0">
           <Graph balance={this.state.balance} on_hold={this.state.on_hold} capital={this.state.capital} currency={this.state.currency}/>
           <Bots period={this.state.period} bots={this.state.bots}/>
           <Period handlePeriod={this.handlePeriod}/>

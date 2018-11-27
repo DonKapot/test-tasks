@@ -1,3 +1,11 @@
-.fixed-bottom{
-    background: rgb(25,40,60);
+.fixed-bottom {
+    background: rgb(25, 40, 60);
+}
+
+.ico-img {
+    font-size: 0.5em;
+}
+
+.ico-text {
+    font-size: 0.7em;
 }
